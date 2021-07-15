@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="logo_desc">logo</string>
+    <string name="view_users">View Users</string>
+    <string name="tv_transfer_money">Select a user to transfer money</string>
+    <string name="tv_no_history">No history</string>
+    <string name="tv_enter_amount">Enter Amount</string>
+</resources>
